@@ -1,0 +1,5 @@
+Temporarily Allow the Script to Run:
+You can bypass the policy for a single session. Run the following command:
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+
+.\venv\Scripts\Activate
